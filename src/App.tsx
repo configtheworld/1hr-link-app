@@ -2,7 +2,7 @@ import "./App.css";
 function App() {
   return (
     <div className="App">
-      <div className="flex justify-center mb-16">
+      <div className="flex justify-center mb-8">
         <img
           src={import.meta.env.VITE_LINKEDIN_IMAGE_LINK}
           className="logo rounded-full w-[160px]"
@@ -13,7 +13,7 @@ function App() {
         Hallo, Ich bin {import.meta.env.VITE_NAME}
       </h1>
       <div className="mt-4 px-2">
-        <code className="text-xl text-latin text-gray-300">
+        <code className="text-xl text-latin text-gray-800 dark:text-gray-300">
           {import.meta.env.VITE_DESCRIPTION}
         </code>
       </div>
