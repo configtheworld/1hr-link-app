@@ -4,7 +4,7 @@ function App() {
     <div className="App">
       <div className="flex justify-center mb-8">
         <img
-          src={import.meta.env.VITE_LINKEDIN_IMAGE_LINK}
+          src="/cvphoto.jpeg"
           className="logo rounded-full w-[160px]"
           alt="deine logo"
         />
