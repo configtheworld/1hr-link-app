@@ -1,4 +1,4 @@
-# One hour link app
+# Quick Access Page
 
 ## React Vite TypeScript Tailwind
 
